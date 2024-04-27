@@ -2,8 +2,7 @@ This is a simple shopping cart application built with React. It allows users to 
 
 How to Run
 Clone this repository to your local machine:
-git clone https://github.com/RaviChowdary97/Cart-task.git
-
+(https://github.com/Komalpawar0698/React-Shopping-Cart-Task)
 Navigate to the project directory:
 cd react-shopping-cart
 
